@@ -1,1 +1,4 @@
 # FormFlask
+En este código de Python estoy utilizando flask para la realización de una aplicación de register y login. Lo hace la aplicación es crear una base de datos llamada "users" con los siguientes campos (user, email, password y password confirmation), esa base de datos será completada cuando el usuario complete el formulario de registro que pide lo siguiente (usuario, email, contraseña y confirmación de contraseña).
+En la parte de login, el usuario tiene que completar el formulario de logueo que pide lo siguiente (usuario, email y contraseña), se debe verificar con la base de datos (anteriormente creada) los datos ingresados por el usuario. Si, alguna de las tres cosas pedidas no coinciden con la base de datos aparece un mensaje "Los datos ingresados son incorrectos, vuelve a intentarlo" y en le caso de que los datos sean correctos "Bienvenido + usuario".
+Este es el código:
