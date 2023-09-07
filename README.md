@@ -63,3 +63,6 @@ if __name__ == '__main__':
         db.create_all()
     app.run(debug=True)
 
+Este código, no funciona ¿Cómo soluciono el error AssertionError? y ¿Cómo lo mejoro?
+
+Intente hacer un login y register de usuarios, por más que recurra a la IA, no funciona.
